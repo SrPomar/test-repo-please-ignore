@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #mapa {
+    height: 100%;
+    width: 100vw;
+}
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+/*img {
+    float: left;
+    margin: 3%;
+}*/
